@@ -1,9 +1,8 @@
-# README
+# MyFoodTrucks
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+A Rails API to serve as the back end for a food trucks marketplace of sorts. This application will have food trucks each with an individual page complete with menus and events that the truck will be at.
 
-Things you may want to cover:
+Topics this README will cover in the future:
 
 * Ruby version
 
